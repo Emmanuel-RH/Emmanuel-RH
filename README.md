@@ -5,7 +5,7 @@ My main goal is to learn something new every day in the field of computer scienc
 
 ## 📍 Redes Sociales
 <ul>
- <li> <a href="https://www.linkedin.com/in/jos%C3%A9-emmanuelreyeshern%C3%A1ndez/" " target="_blank" >Linkedln</a> </li>
- <li> <a href="https://twitter.com/derek_rh_" " target="_blank" >Twitter</a> </li>
- <li> <a href="https://www.instagram.com/derek.rh_/" " target="_blank" >Instagram</a> </li>
+ <li> <a href=https://www.linkedin.com/in/jos%C3%A9-emmanuelreyeshern%C3%A1ndez/ " target="_blank" >Linkedln</a> </li>
+ <li> <a href=https://twitter.com/derek_rh_ " target="_blank" >Twitter</a> </li>
+ <li> <a href=https://www.instagram.com/derek.rh_/ " target="_blank" >Instagram</a> </li>
 </ul>
