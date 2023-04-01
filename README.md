@@ -7,4 +7,4 @@ Como persona principiante intento adquirir todos los días nuevos conocimientos 
 <a href="https://www.linkedin.com/in/jos%C3%A9-emmanuelreyeshern%C3%A1ndez/">Linkedln</a>
 <a href="https://twitter.com/derek_rh_">Twitter</a> 
 <a href="https://www.instagram.com/derek.rh_/">Instagram</a>
-<ul>
+</ul>
